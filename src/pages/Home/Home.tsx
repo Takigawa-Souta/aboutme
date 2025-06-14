@@ -19,7 +19,7 @@ function Home() {
         </a>
       </div>
       
-      <h1 className={styles.title}>私のことについて</h1>
+      <h1 className={styles.title}>私のことに ついて</h1>
       
       <Card title="Interactive Counter">
         <div className={styles.counterSection}>
